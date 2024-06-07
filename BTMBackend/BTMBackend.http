@@ -1,0 +1,6 @@
+@BTMBackend_HostAddress = http://localhost:5265
+
+GET {{BTMBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
